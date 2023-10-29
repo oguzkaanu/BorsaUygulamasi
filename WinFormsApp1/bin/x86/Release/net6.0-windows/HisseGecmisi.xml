@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hisse>
+  <PAMEL>
+    <İşlem Alis="-2022,9" Tutar="-2022,9" />
+    <İşlem Alis="-885" Tutar="-885" />
+    <İşlem Alis="-839,5" Tutar="-839,5" />
+    <İşlem Alis="-1273,6" Tutar="-1273,6" />
+    <İşlem Alis="-1116,8" Tutar="-1116,8" />
+    <İşlem Satis="5217" Tutar="5217" />
+    <İşlem Alis="-2755,8" Tutar="-2755,8" />
+    <İşlem Satis="2790" Tutar="2790" />
+    <Sonuç Tutar="-886,6000000000004" />
+  </PAMEL>
+  <ZOREN>
+    <İşlem Alis="-2002,08" Tutar="-2002,08" />
+    <İşlem Alis="-388" Tutar="-388" />
+    <İşlem Satis="2669,44" Tutar="2669,44" />
+    <İşlem Alis="-1000,8" Tutar="-1000,8" />
+    <İşlem Alis="-995" Tutar="-995" />
+    <İşlem Satis="2205" Tutar="2205" />
+    <Sonuç Tutar="488,5600000000002" />
+  </ZOREN>
+  <ASELS>
+    <İşlem Alis="-1958,4" Tutar="-1958,4" />
+    <İşlem Satis="2302" Tutar="2302" />
+    <İşlem Alis="-1898,75" Tutar="-1898,75" />
+    <İşlem Alis="-149,3" Tutar="-149,3" />
+    <İşlem Alis="-0,03" Tutar="-0,03" />
+    <İşlem Satis="2264,76" Tutar="2264,76" />
+    <İşlem Alis="-2691" Tutar="-2691" />
+    <İşlem Satis="2652" Tutar="2652" />
+    <Sonuç Tutar="521,2800000000002" />
+  </ASELS>
+  <KARTN>
+    <İşlem Alis="-2011,9" Tutar="-2011,9" />
+    <İşlem Satis="2125,05" Tutar="2125,05" />
+    <İşlem Alis="-1973,7" Tutar="-1973,7" />
+    <İşlem Satis="1968" Tutar="1968" />
+    <İşlem Satis="249,15" Tutar="249,15" />
+    <İşlem Alis="-2007,5" Tutar="-2007,5" />
+    <İşlem Satis="2137,5" Tutar="2137,5" />
+    <İşlem Alis="-2662,4" Tutar="-2662,4" />
+    <İşlem Satis="2688" Tutar="2688" />
+    <Sonuç Tutar="512,1999999999998" />
+  </KARTN>
+  <AKFYE>
+    <İşlem Alis="-1990,8" Tutar="-1990,8" />
+    <İşlem Alis="-11,32" Tutar="-11,32" />
+    <İşlem Satis="2092,36" Tutar="2092,36" />
+    <İşlem Alis="-2007,36" Tutar="-2007,36" />
+    <İşlem Satis="2230,4" Tutar="2230,4" />
+    <İşlem Alis="-2700,53" Tutar="-2700,53" />
+    <İşlem Satis="3252,4" Tutar="3252,4" />
+    <Sonuç Tutar="865,1500000000001" />
+  </AKFYE>
+  <SOKE>
+    <İşlem Alis="-1252" Tutar="-1252" />
+    <İşlem Satis="1320" Tutar="1320" />
+    <İşlem Alis="-1990,8" Tutar="-1990,8" />
+    <İşlem Alis="-705" Tutar="-705" />
+    <İşlem Satis="2975,6" Tutar="2975,6" />
+    <Sonuç Tutar="347,7999999999997" />
+  </SOKE>
+  <GOKNR>
+    <İşlem Alis="-1979,82" Tutar="-1979,82" />
+    <İşlem Satis="2021,13" Tutar="2021,13" />
+    <Sonuç Tutar="41,31000000000017" />
+  </GOKNR>
+  <ALTIN>
+    <İşlem Alis="-1434" Tutar="-1434" />
+    <İşlem Alis="-1097,19" Tutar="-1097,19" />
+    <İşlem Alis="-135,09" Tutar="-135,09" />
+    <İşlem Alis="-120,4" Tutar="-120,4" />
+    <İşlem Alis="-30,46" Tutar="-30,46" />
+    <İşlem Alis="-24782,94" Tutar="-24782,94" />
+    <İşlem Alis="-272,48" Tutar="-272,48" />
+    <İşlem Satis="1747,3" Tutar="1747,3" />
+    <İşlem Satis="29874,42" Tutar="29874,42" />
+    <İşlem Alis="-1972,08" Tutar="-1972,08" />
+    <İşlem Alis="-216,84" Tutar="-216,84" />
+    <İşlem Satis="1633,5" Tutar="1633,5" />
+    <İşlem Alis="-9801" Tutar="-9801" />
+    <İşlem Alis="-2178" Tutar="-2178" />
+    <İşlem Alis="-3614" Tutar="-3614" />
+    <İşlem Alis="-6072" Tutar="-6072" />
+    <İşlem Alis="-5388" Tutar="-5388" />
+    <İşlem Satis="5406" Tutar="5406" />
+    <İşlem Alis="-5012" Tutar="-5012" />
+    <İşlem Satis="26115" Tutar="26115" />
+    <Sonuç Tutar="2649,739999999998" />
+  </ALTIN>
+  <AHGAZ>
+    <İşlem Alis="-1001,25" Tutar="-1001,25" />
+    <İşlem Satis="980" Tutar="980" />
+    <Sonuç Tutar="-21,25" />
+  </AHGAZ>
+  <USDTRF>
+    <İşlem Alis="-4459,2" Tutar="-4459,2" />
+    <İşlem Alis="-36444,8" Tutar="-36444,8" />
+    <İşlem Satis="4512" Tutar="4512" />
+    <İşlem Satis="17681,6" Tutar="17681,6" />
+    <İşlem Alis="-7379,4" Tutar="-7379,4" />
+    <İşlem Alis="-4918,8" Tutar="-4918,8" />
+    <İşlem Satis="2470,3" Tutar="2470,3" />
+    <İşlem Alis="-25810" Tutar="-25810" />
+    <İşlem Alis="-2577,9" Tutar="-2577,9" />
+    <İşlem Satis="2563,5" Tutar="2563,5" />
+    <İşlem Satis="5096,4" Tutar="5096,4" />
+    <İşlem Satis="12769,5" Tutar="12769,5" />
+    <İşlem Satis="17864" Tutar="17864" />
+    <İşlem Satis="2552" Tutar="2552" />
+    <İşlem Satis="2546,2" Tutar="2546,2" />
+    <İşlem Satis="5081,4" Tutar="5081,4" />
+    <İşlem Alis="-2543,5" Tutar="-2543,5" />
+    <İşlem Satis="2556,7" Tutar="2556,7" />
+    <İşlem Satis="2551,1" Tutar="2551,1" />
+    <İşlem Satis="2576" Tutar="2576" />
+    <İşlem Satis="5076,6" Tutar="5076,6" />
+    <Sonuç Tutar="1763,699999999997" />
+  </USDTRF>
+  <KRDMD>
+    <İşlem Alis="-1994,08" Tutar="-1994,08" />
+    <İşlem Satis="585,36" Tutar="585,36" />
+    <İşlem Alis="-660" Tutar="-660" />
+    <İşlem Satis="2054,92" Tutar="2054,92" />
+    <İşlem Satis="226,8" Tutar="226,8" />
+    <Sonuç Tutar="213,00000000000028" />
+  </KRDMD>
+  <IAT>
+    <İşlem Alis="-1" Tutar="-1" />
+    <İşlem Satis="1613,26" Tutar="1613,26" />
+    <Sonuç Tutar="1612,26" />
+  </IAT>
+  <MKG>
+    <İşlem Alis="-1" Tutar="-1" />
+    <İşlem Satis="1275,58" Tutar="1275,58" />
+    <Sonuç Tutar="1274,58" />
+  </MKG>
+  <AES>
+    <İşlem Alis="-92,96" Tutar="-92,96" />
+    <İşlem Satis="1" Tutar="1" />
+    <Sonuç Tutar="-91,96" />
+  </AES>
+  <HALKAARZ>
+    <İşlem Alis="-1" Tutar="-1" />
+    <İşlem Satis="4000" Tutar="4000" />
+    <Sonuç Tutar="3999" />
+  </HALKAARZ>
+  <CANTE>
+    <İşlem Alis="-1077" Tutar="-1077" />
+    <İşlem Alis="-499" Tutar="-499" />
+    <İşlem Alis="-1075,59" Tutar="-1075,59" />
+    <İşlem Alis="-1137,18" Tutar="-1137,18" />
+    <İşlem Satis="1254" Tutar="1254" />
+    <İşlem Satis="2525,2" Tutar="2525,2" />
+    <İşlem Satis="293,38" Tutar="293,38" />
+    <İşlem Alis="-1992,34" Tutar="-1992,34" />
+    <İşlem Satis="2236,3" Tutar="2236,3" />
+    <İşlem Alis="-2701,86" Tutar="-2701,86" />
+    <İşlem Satis="2895,9" Tutar="2895,9" />
+    <Sonuç Tutar="721,8099999999995" />
+  </CANTE>
+  <KRDMA>
+    <İşlem Alis="-1975" Tutar="-1975" />
+    <İşlem Satis="2198" Tutar="2198" />
+    <Sonuç Tutar="223" />
+  </KRDMA>
+  <KRDMB>
+    <İşlem Alis="-1975" Tutar="-1975" />
+    <İşlem Satis="2182" Tutar="2182" />
+    <Sonuç Tutar="207" />
+  </KRDMB>
+  <PETKM>
+    <İşlem Alis="-1978,8" Tutar="-1978,8" />
+    <İşlem Satis="1969,92" Tutar="1969,92" />
+    <İşlem Satis="216,84" Tutar="216,84" />
+    <Sonuç Tutar="207,96000000000012" />
+  </PETKM>
+  <SISE>
+    <İşlem Alis="-1998,4" Tutar="-1998,4" />
+    <İşlem Alis="-691,88" Tutar="-691,88" />
+    <İşlem Satis="2972,7" Tutar="2972,7" />
+    <Sonuç Tutar="282,4199999999996" />
+  </SISE>
+  <THYAO>
+    <İşlem Alis="-2027,7" Tutar="-2027,7" />
+    <İşlem Satis="2250" Tutar="2250" />
+    <İşlem Alis="-1949,6" Tutar="-1949,6" />
+    <İşlem Satis="1971,2" Tutar="1971,2" />
+    <İşlem Alis="-2808" Tutar="-2808" />
+    <İşlem Satis="2905,2" Tutar="2905,2" />
+    <Sonuç Tutar="341,0999999999999" />
+  </THYAO>
+  <TKFEN>
+    <İşlem Alis="-1090" Tutar="-1090" />
+    <İşlem Alis="-405,36" Tutar="-405,36" />
+    <İşlem Alis="-312,34" Tutar="-312,34" />
+    <İşlem Alis="-183,12" Tutar="-183,12" />
+    <İşlem Alis="-675,2" Tutar="-675,2" />
+    <İşlem Satis="2745" Tutar="2745" />
+    <Sonuç Tutar="78,97999999999956" />
+  </TKFEN>
+  <TUPRS>
+    <İşlem Alis="-1986,6" Tutar="-1986,6" />
+    <İşlem Satis="1957" Tutar="1957" />
+    <İşlem Satis="309,9" Tutar="309,9" />
+    <Sonuç Tutar="280,30000000000007" />
+  </TUPRS>
+  <EREGL>
+    <İşlem Alis="-990,08" Tutar="-990,08" />
+    <İşlem Satis="990,24" Tutar="990,24" />
+    <İşlem Satis="83,16" Tutar="83,16" />
+    <Sonuç Tutar="83,31999999999996" />
+  </EREGL>
+  <DOAS>
+    <İşlem Alis="-2142" Tutar="-2142" />
+    <İşlem Satis="2348,1" Tutar="2348,1" />
+    <İşlem Alis="-2815" Tutar="-2815" />
+    <İşlem Satis="2761" Tutar="2761" />
+    <Sonuç Tutar="152,0999999999999" />
+  </DOAS>
+  <VESTL>
+    <İşlem Alis="-1056,55" Tutar="-1056,55" />
+    <İşlem Alis="-988,8" Tutar="-988,8" />
+    <İşlem Alis="-695,4" Tutar="-695,4" />
+    <İşlem Satis="2925" Tutar="2925" />
+    <Sonuç Tutar="184,25" />
+  </VESTL>
+  <HLGYO>
+    <İşlem Alis="-1002" Tutar="-1002" />
+    <İşlem Alis="-1014" Tutar="-1014" />
+    <İşlem Alis="-697,08" Tutar="-697,08" />
+    <İşlem Satis="2866,04" Tutar="2866,04" />
+    <Sonuç Tutar="152,96000000000004" />
+  </HLGYO>
+  <KOZAA>
+    <İşlem Alis="-999,2" Tutar="-999,2" />
+    <İşlem Alis="-1042,1" Tutar="-1042,1" />
+    <İşlem Alis="-690" Tutar="-690" />
+    <İşlem Satis="3051" Tutar="3051" />
+    <Sonuç Tutar="319,6999999999998" />
+  </KOZAA>
+  <BMSTL>
+    <İşlem Alis="-1972,48" Tutar="-1972,48" />
+    <İşlem Alis="-42,86" Tutar="-42,86" />
+    <İşlem Satis="2225,92" Tutar="2225,92" />
+    <İşlem Alis="-1991,86" Tutar="-1991,86" />
+    <İşlem Satis="2217,46" Tutar="2217,46" />
+    <Sonuç Tutar="436,1800000000003" />
+  </BMSTL>
+  <NIBAS>
+    <İşlem Alis="-988,8" Tutar="-988,8" />
+    <İşlem Alis="-1003,78" Tutar="-1003,78" />
+    <İşlem Satis="2200,88" Tutar="2200,88" />
+    <Sonuç Tutar="208,30000000000018" />
+  </NIBAS>
+  <KOPOL>
+    <İşlem Alis="-2008,5" Tutar="-2008,5" />
+    <İşlem Alis="-742,8" Tutar="-742,8" />
+    <İşlem Satis="3066" Tutar="3066" />
+    <Sonuç Tutar="314,6999999999998" />
+  </KOPOL>
+  <KAREL>
+    <İşlem Alis="-460,4" Tutar="-460,4" />
+    <İşlem Alis="-1597,4" Tutar="-1597,4" />
+    <İşlem Satis="2273,4" Tutar="2273,4" />
+    <Sonuç Tutar="215,5999999999999" />
+  </KAREL>
+  <KAYSE>
+    <İşlem Alis="-1995,5" Tutar="-1995,5" />
+    <İşlem Alis="-154,1" Tutar="-154,1" />
+    <İşlem Alis="-684,96" Tutar="-684,96" />
+    <İşlem Satis="3130,2" Tutar="3130,2" />
+    <Sonuç Tutar="295,6399999999999" />
+  </KAYSE>
+  <TMSN>
+    <İşlem Alis="-2037" Tutar="-2037" />
+    <İşlem Alis="-684" Tutar="-684" />
+    <İşlem Satis="3002" Tutar="3002" />
+    <Sonuç Tutar="281" />
+  </TMSN>
+  <FENER>
+    <İşlem Alis="-2020,95" Tutar="-2020,95" />
+    <İşlem Satis="2030,4" Tutar="2030,4" />
+    <Sonuç Tutar="9,450000000000045" />
+  </FENER>
+  <AKENR>
+    <İşlem Alis="-2002,2" Tutar="-2002,2" />
+    <İşlem Alis="-698,7" Tutar="-698,7" />
+    <İşlem Alis="-1264,8" Tutar="-1264,8" />
+    <İşlem Satis="4055,2" Tutar="4055,2" />
+    <Sonuç Tutar="89,5" />
+  </AKENR>
+  <ENKAI>
+    <İşlem Alis="-2011,2" Tutar="-2011,2" />
+    <İşlem Satis="2085,6" Tutar="2085,6" />
+    <İşlem Alis="-2700,22" Tutar="-2700,22" />
+    <İşlem Satis="2987,78" Tutar="2987,78" />
+    <Sonuç Tutar="361,9600000000005" />
+  </ENKAI>
+  <ALKA>
+    <İşlem Alis="-2014,74" Tutar="-2014,74" />
+    <İşlem Satis="694,6" Tutar="694,6" />
+    <İşlem Alis="-1389,2" Tutar="-1389,2" />
+    <İşlem Satis="3096" Tutar="3096" />
+    <Sonuç Tutar="386,65999999999985" />
+  </ALKA>
+  <POLHO>
+    <İşlem Alis="-2002" Tutar="-2002" />
+    <İşlem Alis="-702,83" Tutar="-702,83" />
+    <İşlem Satis="2904" Tutar="2904" />
+    <Sonuç Tutar="199,17000000000007" />
+  </POLHO>
+  <KCHOL>
+    <İşlem Alis="-1999,5" Tutar="-1999,5" />
+    <İşlem Satis="2208" Tutar="2208" />
+    <Sonuç Tutar="208,5" />
+  </KCHOL>
+  <OFSYM>
+    <İşlem Alis="-435,2" Tutar="-435,2" />
+    <İşlem Satis="466,9" Tutar="466,9" />
+    <İşlem Satis="739,8" Tutar="739,8" />
+    <Sonuç Tutar="771,5" />
+  </OFSYM>
+  <KLSER>
+    <İşlem Alis="-1075" Tutar="-1075" />
+    <İşlem Satis="1057,5" Tutar="1057,5" />
+    <İşlem Satis="2686,6" Tutar="2686,6" />
+    <Sonuç Tutar="2669,1" />
+  </KLSER>
+  <ATAKP>
+    <İşlem Alis="-39,5" Tutar="-39,5" />
+    <İşlem Alis="-395" Tutar="-395" />
+    <İşlem Satis="384,3" Tutar="384,3" />
+    <İşlem Satis="348" Tutar="348" />
+    <Sonuç Tutar="297,8" />
+  </ATAKP>
+  <FZLGY>
+    <İşlem Alis="-97,9" Tutar="-97,9" />
+    <İşlem Alis="-186,9" Tutar="-186,9" />
+    <İşlem Satis="284,97" Tutar="284,97" />
+    <İşlem Satis="206,03" Tutar="206,03" />
+    <Sonuç Tutar="206,20000000000002" />
+  </FZLGY>
+  <ASGYO>
+    <İşlem Alis="-1045,8" Tutar="-1045,8" />
+    <İşlem Satis="1043,67" Tutar="1043,67" />
+    <İşlem Satis="578,24" Tutar="578,24" />
+    <Sonuç Tutar="576,1100000000001" />
+  </ASGYO>
+  <BJKAS>
+    <İşlem Alis="-1945,2" Tutar="-1945,2" />
+    <İşlem Satis="1953,6" Tutar="1953,6" />
+    <Sonuç Tutar="8,399999999999864" />
+  </BJKAS>
+  <IMASM>
+    <İşlem Alis="-2693,7" Tutar="-2693,7" />
+    <İşlem Satis="2993" Tutar="2993" />
+    <İşlem Alis="-2703,92" Tutar="-2703,92" />
+    <İşlem Satis="2719,98" Tutar="2719,98" />
+    <İşlem Alis="-2691,57" Tutar="-2691,57" />
+    <İşlem Satis="2718,03" Tutar="2718,03" />
+    <Sonuç Tutar="341,82000000000016" />
+  </IMASM>
+  <AKBNK>
+    <İşlem Alis="-2005,98" Tutar="-2005,98" />
+    <İşlem Alis="-1825,08" Tutar="-1825,08" />
+    <İşlem Satis="4207,6" Tutar="4207,6" />
+    <Sonuç Tutar="376,5400000000004" />
+  </AKBNK>
+  <ISDMR>
+    <İşlem Alis="-2010,82" Tutar="-2010,82" />
+    <İşlem Satis="2215,4" Tutar="2215,4" />
+    <Sonuç Tutar="204,58000000000015" />
+  </ISDMR>
+  <TATEN>
+    <İşlem Alis="-495" Tutar="-495" />
+    <İşlem Satis="1262,8" Tutar="1262,8" />
+    <Sonuç Tutar="767,8" />
+  </TATEN>
+  <IZENR>
+    <İşlem Alis="-684" Tutar="-684" />
+    <İşlem Satis="1832,4" Tutar="1832,4" />
+    <Sonuç Tutar="1148,4" />
+  </IZENR>
+  <ENJSA>
+    <İşlem Alis="-1983,2" Tutar="-1983,2" />
+    <İşlem Satis="2204" Tutar="2204" />
+    <Sonuç Tutar="220,79999999999995" />
+  </ENJSA>
+  <BYDNR>
+    <İşlem Alis="-294" Tutar="-294" />
+    <İşlem Satis="312,2" Tutar="312,2" />
+    <İşlem Satis="305,48" Tutar="305,48" />
+    <Sonuç Tutar="323,68" />
+  </BYDNR>
+  <ENERY>
+    <İşlem Alis="-887,6" Tutar="-887,6" />
+    <İşlem Satis="1654" Tutar="1654" />
+    <Sonuç Tutar="766,4" />
+  </ENERY>
+  <KZGYO>
+    <İşlem Alis="-249,12" Tutar="-249,12" />
+    <İşlem Alis="-2001,72" Tutar="-2001,72" />
+    <İşlem Alis="-709,78" Tutar="-709,78" />
+    <İşlem Satis="2223" Tutar="2223" />
+    <İşlem Satis="401,76" Tutar="401,76" />
+    <Sonuç Tutar="-335,8599999999999" />
+  </KZGYO>
+  <HEKTS>
+    <İşlem Alis="-2003,2" Tutar="-2003,2" />
+    <İşlem Satis="2212,8" Tutar="2212,8" />
+    <İşlem Alis="-2709,36" Tutar="-2709,36" />
+    <İşlem Satis="2741,16" Tutar="2741,16" />
+    <Sonuç Tutar="241,39999999999964" />
+  </HEKTS>
+  <SNGYO>
+    <İşlem Alis="-2696,02" Tutar="-2696,02" />
+    <İşlem Satis="2753,91" Tutar="2753,91" />
+    <İşlem Alis="-2679,76" Tutar="-2679,76" />
+    <İşlem Satis="2687,93" Tutar="2687,93" />
+    <Sonuç Tutar="66,05999999999949" />
+  </SNGYO>
+  <TEZOL>
+    <İşlem Alis="-2696,6" Tutar="-2696,6" />
+    <İşlem Satis="2907,88" Tutar="2907,88" />
+    <Sonuç Tutar="211,2800000000002" />
+  </TEZOL>
+  <GMTAS>
+    <İşlem Alis="-2703,68" Tutar="-2703,68" />
+    <İşlem Alis="-2351,44" Tutar="-2351,44" />
+    <İşlem Satis="4788,56" Tutar="4788,56" />
+    <Sonuç Tutar="-266,5599999999995" />
+  </GMTAS>
+  <YYLGD>
+    <İşlem Alis="-2699,84" Tutar="-2699,84" />
+    <İşlem Satis="2610,16" Tutar="2610,16" />
+    <Sonuç Tutar="-89,68000000000029" />
+  </YYLGD>
+  <SASA>
+    <İşlem Alis="-2669,85" Tutar="-2669,85" />
+    <İşlem Satis="2743,8" Tutar="2743,8" />
+    <Sonuç Tutar="73,95000000000027" />
+  </SASA>
+  <NTGAZ>
+    <İşlem Alis="-2704,35" Tutar="-2704,35" />
+    <İşlem Satis="2756,5" Tutar="2756,5" />
+    <Sonuç Tutar="52,15000000000009" />
+  </NTGAZ>
+  <EKSUN>
+    <İşlem Alis="-2670,9" Tutar="-2670,9" />
+    <İşlem Satis="2805,75" Tutar="2805,75" />
+    <Sonuç Tutar="134,8499999999999" />
+  </EKSUN>
+  <TOASO>
+    <İşlem Alis="-2704" Tutar="-2704" />
+    <İşlem Satis="2981" Tutar="2981" />
+    <Sonuç Tutar="277" />
+  </TOASO>
+  <TARKIM>
+    <İşlem Alis="-215" Tutar="-215" />
+    <İşlem Satis="230,2" Tutar="230,2" />
+    <İşlem Satis="306,3" Tutar="306,3" />
+    <Sonuç Tutar="321,5" />
+  </TARKIM>
+  <ULUUN>
+    <İşlem Alis="-2683,8" Tutar="-2683,8" />
+    <İşlem Satis="2524,76" Tutar="2524,76" />
+    <Sonuç Tutar="-159,03999999999996" />
+  </ULUUN>
+  <PAPIL>
+    <İşlem Alis="-2697,5" Tutar="-2697,5" />
+    <İşlem Satis="2737,34" Tutar="2737,34" />
+    <Sonuç Tutar="39,840000000000146" />
+  </PAPIL>
+  <PGSUS>
+    <İşlem Alis="-2585,4" Tutar="-2585,4" />
+    <İşlem Satis="2423,7" Tutar="2423,7" />
+    <Sonuç Tutar="-161,70000000000027" />
+  </PGSUS>
+  <FMIZP>
+    <İşlem Alis="-2734,5" Tutar="-2734,5" />
+    <İşlem Satis="3517,5" Tutar="3517,5" />
+    <Sonuç Tutar="783" />
+  </FMIZP>
+  <EBEBK>
+    <İşlem Alis="-232,5" Tutar="-232,5" />
+    <İşlem Satis="160" Tutar="160" />
+    <İşlem Satis="208,65" Tutar="208,65" />
+    <Sonuç Tutar="136,15" />
+  </EBEBK>
+  <GIPTA>
+    <İşlem Alis="-167,2" Tutar="-167,2" />
+    <İşlem Satis="162,2" Tutar="162,2" />
+    <İşlem Satis="124,62" Tutar="124,62" />
+    <Sonuç Tutar="119,62" />
+  </GIPTA>
+  <ADGYO>
+    <İşlem Alis="-589,16" Tutar="-589,16" />
+    <İşlem Satis="861,12" Tutar="861,12" />
+    <Sonuç Tutar="271,96000000000004" />
+  </ADGYO>
+  <REEDR>
+    <İşlem Alis="-427,8" Tutar="-427,8" />
+    <İşlem Satis="1105,84" Tutar="1105,84" />
+    <Sonuç Tutar="678,04" />
+  </REEDR>
+  <HATSN>
+    <İşlem Alis="-180,8" Tutar="-180,8" />
+    <İşlem Satis="425,2" Tutar="425,2" />
+    <Sonuç Tutar="244,39999999999998" />
+  </HATSN>
+  <DMRGD>
+    <İşlem Alis="-133,12" Tutar="-133,12" />
+    <İşlem Satis="235,3" Tutar="235,3" />
+    <Sonuç Tutar="102,18" />
+  </DMRGD>
+  <DOFER>
+    <İşlem Alis="-85,55" Tutar="-85,55" />
+    <Sonuç Tutar="-85,55" />
+  </DOFER>
+  <MEKAG>
+    <İşlem Alis="-125" Tutar="-125" />
+    <Sonuç Tutar="-125" />
+  </MEKAG>
+  <MHRGY>
+    <İşlem Alis="-266,6" Tutar="-266,6" />
+    <Sonuç Tutar="-266,6" />
+  </MHRGY>
+</Hisse>
